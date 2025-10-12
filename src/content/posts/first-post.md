@@ -7,4 +7,4 @@ draft: false
 
 ---
 
-简单布置了下astro，对fuwari主题进行了一些修改，可以开始写了！
+简单布置了下Astro，对fuwari主题进行了一些修改，可以开始写了！
