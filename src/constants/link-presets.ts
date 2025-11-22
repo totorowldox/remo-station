@@ -18,5 +18,5 @@ export const LinkPresets: { [key in LinkPreset]: NavBarLink } = {
 	[LinkPreset.Friends]: {
 		name: "朋友们",
 		url: "/friends/",
-	}
+	},
 };
